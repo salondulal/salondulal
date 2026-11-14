@@ -1,8 +1,10 @@
 
 
 <div align="center">
-  Salon Dulal
-  COMPUTING GRADUATE | CYBERSECURITY | ARTIFICIAL INTELLIGENCE
+Salon Dulal
+
+  
+COMPUTING GRADUATE | CYBERSECURITY | ARTIFICIAL INTELLIGENCE
 
 Building practical solutions through technology, security and innovation.
 
