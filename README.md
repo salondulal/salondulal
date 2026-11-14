@@ -86,7 +86,13 @@ I'm particularly interested in opportunities where I can work on real technical 
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: [Salon Dulal](https://www.linkedin.com/in/salon-dulal-6a2116269)
+Portfolio: https://salondulal.vercel.app
+
+LinkedIn: https://www.linkedin.com/in/salondulal/
+
+GitHub: https://github.com/salondulal
+
+Email: dsalondulal22@gmail.com
 
 📍 London, United Kingdom
 
