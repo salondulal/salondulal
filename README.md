@@ -1,102 +1,169 @@
-# Hi, I'm Salon Dulal 👋
+Salon Dulal
 
-### Cybersecurity & Software Engineering Graduate
+Computing Graduate | Cybersecurity Enthusiast | AI & Software Developer
 
-I’m a Computing Systems graduate from Ulster University with interests in **Cybersecurity, Penetration Testing, Security Engineering, Software Development and AI/ML**.
+Welcome to my GitHub! I'm Salon Dulal, a Computing graduate with a Distinction, interested in cybersecurity, artificial intelligence, software development, and emerging technologies.
 
-I enjoy understanding how systems work, identifying weaknesses, and building practical solutions using software, machine learning and embedded technologies.
+I enjoy building practical projects, exploring new technologies, solving technical problems, and continuously developing my skills.
 
----
-
-## 🛡️ Cybersecurity
-
-- Kali Linux
-- Network Security
-- Penetration Testing
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-- TCP/IP & Computer Networking
-- Linux
+My goal is to build a career in cybersecurity while continuing to explore the intersection of AI, computing, and technology.
 
 ---
 
-## 💻 Programming & Development
+🌐 Connect With Me
+
+- Portfolio: https://salondulal.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/salondulal/
+- GitHub: https://github.com/salondulal
+- Email: dsalondulal22@gmail.com
+
+---
+
+👨‍💻 About Me
+
+- 🎓 Computing graduate with a Distinction.
+- 🔐 Interested in cybersecurity, digital trust, and information security.
+- 🤖 Exploring artificial intelligence and machine learning.
+- 💻 Interested in software engineering and application development.
+- 🧠 Enjoy learning how systems work, identifying problems, and developing solutions.
+- 🚀 Continuously building projects and expanding my technical knowledge.
+
+I believe in learning through practical experience and building technology that solves real-world problems.
+
+---
+
+🛠️ Technical Skills
+
+Programming & Development
 
 - Python
-- Java
 - JavaScript
-- SQL
-- SQLite
-- MongoDB
-- Git
+- HTML5
+- CSS3
+- Angular
+- Flask
 
----
+Artificial Intelligence & Computer Vision
 
-## 🤖 AI, Machine Learning & Computer Vision
-
-- TensorFlow / Keras
+- TensorFlow
+- Keras
 - OpenCV
-- YOLO
 - Machine Learning
-- Deep Learning
-- Computer Vision
-- Transfer Learning
-- TinyML
+- Image Classification
+- Model Evaluation
+
+Cybersecurity & Computing
+
+- Cybersecurity Fundamentals
+- Digital Trust
+- Cloud Computing Concepts
+- Computing Systems
+- Software Security Concepts
+
+Tools & Technologies
+
+- Git & GitHub
+- Visual Studio Code
+- MongoDB
+- Arduino
+- Windows
+- Linux / Ubuntu (WSL)
 
 ---
 
-## 🚀 Projects
+🚀 Featured Projects
 
-### 🔐 Cybersecurity & Penetration Testing Lab
-Hands-on security work in controlled lab environments involving network reconnaissance, traffic analysis and penetration-testing concepts using **Kali Linux, Nmap, Wireshark, Burp Suite and Metasploit**.
+1. Executable Ethics Engine
 
-### ⚖️ Executable Ethics Engine
-Python-based decision and audit system incorporating configurable rules, decision explanations and persistent logging.
+A Python-based decision platform developed to implement rule-based decision-making.
 
-**Technologies:** Python • SQLite • SQL • Git
+Technologies: Python, Tkinter, CustomTkinter
 
-### 🧠 Environmental Scene Classification
-Developed and evaluated deep-learning models for six-class environmental scene classification. Improved the baseline CNN using **transfer learning, fine-tuning and data augmentation**, with testing on both clean and noisy image datasets.
+Key features:
 
-**Technologies:** Python • TensorFlow/Keras • Computer Vision • Deep Learning
+- Rule-based decision engine.
+- User authentication and registration.
+- Administrative functionality.
+- Weighted decision evaluation.
+- Automated approval, review, and rejection outcomes.
 
-### ⚽ Football Player Tracking & Analytics
-Computer-vision system for detecting and tracking football players in video and analysing player movement.
+2. Computer Vision & AI
 
-**Technologies:** Python • YOLO • OpenCV • Object Detection
+An image classification project exploring deep learning models and their performance under different image conditions.
 
-### 💧 AquaBoost — TinyML Smart Hydration Reminder
-Embedded intelligent hydration-reminder prototype combining machine learning with microcontroller hardware and real-time interaction.
+Technologies: Python, TensorFlow, Keras
 
-**Technologies:** Arduino • TinyML • Machine Learning • Embedded Systems • IoT
+Key features:
+
+- Image classification across six categories.
+- Baseline and improved model comparisons.
+- Clean and noisy image evaluation.
+- Accuracy and F1-score analysis.
+
+3. AquaBoost – Edge & Embedded Intelligence
+
+An embedded systems project exploring sensor-based monitoring and interactive hardware.
+
+Technologies: Arduino Nano 33 BLE Sense, Embedded C/C++, OLED
+
+Key features:
+
+- Microcontroller-based development.
+- Sensor integration.
+- OLED display interaction.
+- Button and buzzer functionality.
+
+4. Personal Portfolio Website
+
+My personal portfolio showcasing my background, technical interests, projects, and professional development.
+
+Technologies: HTML, CSS, JavaScript, Vercel
+
+🌐 Live website: https://salondulal.vercel.app/
 
 ---
 
-## 🎯 Currently
+🎯 Current Interests & Career Goals
 
-I'm actively seeking graduate, entry-level and internship opportunities across:
+I am particularly interested in opportunities involving:
 
-Cybersecurity • Security Engineering • Penetration Testing • Software Engineering • Backend Development
+- Cybersecurity and Information Security
+- Security Operations and Threat Analysis
+- Digital Trust and Technology Risk
+- Artificial Intelligence and Machine Learning
+- Software Development
+- Cloud and Infrastructure Security
 
-I'm particularly interested in opportunities where I can tackle real-world technical challenges, develop practical security and engineering skills, and learn from experienced professionals.
+I am actively looking for opportunities where I can apply my computing knowledge, develop practical industry experience, and contribute to meaningful technical projects.
 
-I'm primarily targeting opportunities in London, while remaining open to suitable roles across the United Kingdom.
 ---
 
-## 🤝 Connect With Me
+📚 Continuous Learning
 
-Portfolio: https://salondulal.vercel.app
+Technology is constantly evolving, and so am I.
+
+I am committed to:
+
+- Developing practical cybersecurity skills.
+- Exploring security tools and technologies.
+- Improving my programming and development abilities.
+- Learning more about AI and emerging technologies.
+- Building projects that demonstrate practical technical knowledge.
+
+---
+
+🤝 Let's Connect
+
+I'm always interested in connecting with developers, cybersecurity professionals, recruiters, and people working in technology.
+
+If you're interested in my work or would like to discuss an opportunity, feel free to connect.
+
+Portfolio: https://salondulal.vercel.app/
 
 LinkedIn: https://www.linkedin.com/in/salondulal/
 
-GitHub: https://github.com/salondulal
-
 Email: dsalondulal22@gmail.com
-
-📍 London, United Kingdom
 
 ---
 
-> Secure systems. Protect data. Build solutions.
+Building, learning, and growing — one project at a time.
