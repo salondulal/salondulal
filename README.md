@@ -76,12 +76,13 @@ Embedded intelligent hydration-reminder prototype combining machine learning wit
 
 ## 🎯 Currently
 
-I'm looking for **graduate and internship opportunities** in:
+I'm actively seeking graduate, entry-level and internship opportunities across:
 
-**Cybersecurity • Security Engineering • Penetration Testing • Software Engineering • Backend Development**
+Cybersecurity • Security Engineering • Penetration Testing • Software Engineering • Backend Development
 
-I'm particularly interested in opportunities where I can work on real technical problems, strengthen my engineering skills and learn from experienced teams.
+I'm particularly interested in opportunities where I can tackle real-world technical challenges, develop practical security and engineering skills, and learn from experienced professionals.
 
+I'm primarily targeting opportunities in London, while remaining open to suitable roles across the United Kingdom.
 ---
 
 ## 🤝 Connect With Me
