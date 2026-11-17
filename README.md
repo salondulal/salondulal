@@ -1,95 +1,193 @@
-<div align="center">SALON DULAL
-Cybersecurity • Network Security • Software Development
+<h1 align="center">Salon Dulal</h1>
 
-First-Class Honours Computing Systems graduate | London, UK
+<h3 align="center">Cybersecurity • Network Security • Computing Systems</h3>
 
+<p align="center">
+  <a href="https://salondulal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D084?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/salondulal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dsalondulal22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+---
 
-Learning how systems work. Building useful things. Developing the skills to secure them.
-</div>About
-I'm a First-Class Honours BSc Computing Systems graduate from Ulster University, based in London. I'm building my career in cybersecurity, with particular interests in security operations, network security, vulnerability assessment and secure software development.
+## About
 
-My technical experience comes from academic projects and practical learning in controlled environments. I've used tools including Nmap, Wireshark, Kali Linux, Burp Suite and Metasploit to develop foundational knowledge of network discovery, traffic inspection and security testing.
+I'm a **First-Class Honours Computing Systems graduate from Ulster University**, based in London, with a strong interest in cybersecurity, network security and secure software development.
 
-I also bring professional experience as a hospitality supervisor, where I've developed communication, prioritisation, teamwork and problem-solving skills in a fast-paced environment.
+My technical interests include understanding network behaviour, analysing traffic, exploring security tools and building software that solves practical problems.
 
-I'm currently looking for graduate and junior opportunities where I can keep learning and contribute to a technical team.
-Technical skills
-Area	Technologies and tools
-Security & networking	Nmap, Wireshark, Burp Suite, Metasploit, Kali Linux
-Operating systems	Linux
-Programming	Python, Java, JavaScript, TypeScript, SQL
-Web & backend	HTML, CSS, Flask, Angular, Node.js
-Data & computer vision	SQLite, MongoDB, TensorFlow, Keras, OpenCV, YOLO
-Development tools	Git, GitHub
+I combine academic project experience with hands-on learning in controlled cybersecurity environments. I'm particularly interested in developing my skills in security operations, network defence and vulnerability assessment.
 
+**Areas of interest**
+- Security Operations Centre (SOC)
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+- Security Engineering
+- Python Automation
 
-These are technologies I've used or studied through projects and learning. My experience levels vary; I don't present academic lab work as professional security employment.
-Featured projects
-1. Executable Ethics Engine
-Python · SQLite · Tkinter
+---
 
-A desktop decision-support application that evaluates applications using configurable, weighted rules.
-- Built a graphical interface with Tkinter.
-- Implemented user registration, login and role-based access.
-- Created a weighted decision engine with configurable criteria.
-- Added decision outcomes and audit-history functionality.
-What it demonstrates: Python development, database integration, authentication concepts, access control and rule-based logic.
-2. Environmental Scene Classification
-Python · TensorFlow · Keras
+## Technical Stack
 
-A computer vision project classifying images into six categories: buildings, forest, glacier, mountain, sea and street.
-Evaluation	Baseline accuracy	Improved accuracy
-Clean test data	67.38%	90.71%
-Noisy test data	51.90%	63.81%
+**Cybersecurity & Networking**
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-The work involved training and evaluating models, comparing performance and investigating the effect of noisy input data.
+**Programming Languages**
 
-What it demonstrates: model development, experimentation, evaluation and robustness testing.
-3. AquaBoost
-Arduino Nano 33 BLE Sense · Embedded systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-An ongoing embedded-systems project exploring sensor-based functionality on an Arduino Nano 33 BLE Sense.
-- Worked with the microcontroller and peripheral components.
-- Explored OLED display, button and buzzer integration.
-- Investigated sensor integration and edge-computing concepts.
-What it demonstrates: embedded development, hardware/software integration and practical debugging.
-4. Object detection and computer vision
-Python · YOLO · OpenCV
+**Frameworks, AI & Development**
 
-Practical work exploring object-detection concepts and image-processing workflows using computer vision tools.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-What it demonstrates: image processing, computer vision workflows and applied AI.
-Cybersecurity learning
-My security practice is carried out in authorised labs and controlled learning environments.
-Tool	Practical learning
-Nmap	Host discovery, port scanning and service enumeration
-Wireshark	Capturing and inspecting network traffic and protocols
-Burp Suite	Exploring HTTP requests and web application testing workflows
-Metasploit	Learning security-testing concepts in controlled environments
-Kali Linux	Working with a Linux-based security toolkit
+---
 
+## Featured Projects
 
-I'm continuing to strengthen my understanding of TCP/IP, DNS, HTTP/HTTPS, Linux, network security and defensive security fundamentals.
-Education & training
-Ulster University
+### 01. Executable Ethics Engine
+
+**Python · SQLite · Tkinter · Authentication**
+
+A desktop decision-support application built around configurable rules and weighted scoring.
+
+- Implemented authentication and role-based access.
+- Developed a configurable rule-based decision engine.
+- Implemented weighted scoring and decision outcomes.
+- Incorporated audit-history functionality.
+- Built a graphical interface using Tkinter.
+
+**Technical focus:** Authentication, access control, application logic and secure software design.
+
+### 02. Environmental Scene Classification
+
+**Python · TensorFlow · Keras · Computer Vision**
+
+A deep-learning project classifying images into six categories:
+
+Buildings, Forest, Glacier, Mountain, Sea and Street.
+
+Model evaluation:
+
+| Evaluation | Baseline | Improved |
+|:---|---:|---:|
+| Clean accuracy | 67.38% | **90.71%** |
+| Noisy accuracy | 51.90% | **63.81%** |
+
+- Developed and evaluated a baseline model.
+- Improved classification performance.
+- Tested robustness against noisy image inputs.
+- Compared model performance across evaluation conditions.
+
+**Technical focus:** Deep learning, model evaluation and robustness.
+
+### 03. AquaBoost
+
+**Arduino · Embedded Systems · Edge Intelligence**
+
+An embedded systems project exploring sensor-driven intelligent functionality using the Arduino Nano 33 BLE Sense.
+
+- Developed a microcontroller-based prototype.
+- Worked with OLED display, button and buzzer integration.
+- Explored sensor integration and edge-computing concepts.
+
+**Technical focus:** Embedded development, hardware integration and edge intelligence.
+
+### 04. Object Detection & Computer Vision
+
+**Python · YOLO · OpenCV**
+
+Practical exploration of computer vision and object detection.
+
+- Worked with object detection concepts.
+- Explored image-processing workflows using OpenCV.
+- Investigated AI-based visual recognition.
+
+**Technical focus:** Computer vision and applied machine learning.
+
+---
+
+## Cybersecurity Practice
+
+I develop practical security knowledge through authorised labs and controlled learning environments.
+
+| Tool | Practical learning |
+|:---|:---|
+| Nmap | Host discovery, port scanning and service enumeration |
+| Wireshark | Packet capture and TCP, DNS and HTTP traffic inspection |
+| Burp Suite | HTTP request analysis and web application testing concepts |
+| Metasploit | Security testing concepts in controlled environments |
+| Kali Linux | Linux commands and security tooling |
+
+I'm continuing to build my understanding of networking, vulnerability assessment, defensive security and security operations.
+
+---
+
+## Education & Certifications
+
+**Ulster University**
+
 BSc Computing Systems — First-Class Honours
 
-QA Ltd
-Cyber Security Fundamentals Pathway — completed June 2026
-Beyond technology
-Alongside my technical development, I work as a Supervisor at German Kraft Brewing Limited. Coordinating day-to-day operations and supporting a customer-facing team has strengthened my communication, organisation, leadership and ability to work under pressure.
+**QA Ltd**
 
-I see these as transferable strengths for technical support, security operations and collaborative engineering roles.
-What I'm working towards
-- Building stronger foundations in networking and security operations.
-- Developing practical Linux and Python skills.
-- Learning more about vulnerability assessment and defensive security.
-- Turning academic and lab-based experience into professional technical experience.
-Get in touch
-- Portfolio: salondulal.vercel.app
-- LinkedIn: linkedin.com/in/salondulal
-- Email: dsalondulal22@gmail.com
-<div align="center">Build carefully. Learn continuously. Secure responsibly.
-</div>
+Cyber Security Fundamentals Pathway — Completed June 2026
+
+---
+
+## Beyond Technology
+
+Alongside my technical development, I work as a Supervisor at German Kraft Brewing Limited in London.
+
+Managing daily operations, coordinating colleagues and handling customer-facing responsibilities have strengthened my communication, organisation, teamwork and decision-making skills.
+
+---
+
+## Currently Developing
+
+- Network security and TCP/IP fundamentals
+- Linux and security tooling
+- Security monitoring and threat detection
+- Vulnerability assessment
+- Python automation
+- Secure software development
+
+**My objective:** Build the technical depth and practical experience to contribute to professional cybersecurity teams.
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://salondulal.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/salondulal/">LinkedIn</a> •
+  <a href="https://github.com/salondulal">GitHub</a> •
+  <a href="mailto:dsalondulal22@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <i>Understand the system. Challenge assumptions. Build securely.</i>
+</p>
